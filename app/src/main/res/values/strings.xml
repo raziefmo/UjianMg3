@@ -1,0 +1,14 @@
+ <resources>
+    <string name="app_name">UjianMg3</string>
+     <string name="selected">selected</string>
+
+     <string-array name="Gender">
+     <item> Pria </item>
+     <item> Wanita </item>
+     </string-array>
+     <string-array name="Status">
+         <item> Single </item>
+         <item> Menikah </item>
+     </string-array>
+
+</resources>
